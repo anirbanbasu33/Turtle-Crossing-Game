@@ -1,5 +1,4 @@
-# Try to increase the turtle speed.
-
+#Version2 Change = Try to increase the turtle speed. 
 
 import time
 from turtle import Screen
